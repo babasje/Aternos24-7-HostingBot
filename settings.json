@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "SebbaenRinkey.aternos.me:60606",
+    "port": 60606,
     "version": "",
     "try-creative": false
   },
