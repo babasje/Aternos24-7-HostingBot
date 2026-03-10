@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SebbaenRinkey.aternos.me:60606",
+    "ip": "SebbaenRinkey.aternos.me",
     "port": 60606,
     "version": "",
     "try-creative": false
